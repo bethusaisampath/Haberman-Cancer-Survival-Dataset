@@ -1,0 +1,6 @@
+# Adding inwhich century does this dataset from?
+import pandas as pd
+
+haberman["Operation_Year"] = haberman["Operation_Year"].apply(lambda x: '{}{}'.format('19',haberman)
+
+print(haberman)
